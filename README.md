@@ -1,8 +1,6 @@
 # Smart-Contract-Execution-Costs-Techniques-for-Cost-Optimization-on-Blockchain-Networks
 
 
-# Smart Contract Execution Costs: Techniques for Cost Optimization on Blockchain Networks
-
 ## Overview
 
 This repository contains the source code and resources for the project titled "Smart Contract Execution Costs: Techniques for Cost Optimization on Blockchain Networks". The project explores various techniques and strategies to optimize the execution costs associated with smart contracts on blockchain networks.
