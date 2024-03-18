@@ -47,3 +47,6 @@ For any inquiries or further information regarding the project, you can contact 
 
 ---
 © 2024 Rahul Tharammal. All rights reserved.
+
+Additional Note:
+To run the code, simply copy each code snippet and paste it into your preferred integrated development environment (IDE) for blockchain development, such as [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.24+commit.e11b9ed9.js) or Truffle Suite. Follow the instructions provided in the documentation for further guidance on executing the code effectively.
