@@ -1,0 +1,14 @@
+{
+  "name": "gas_opt",
+  "version": "1.0.0",
+  "description": "this file contain list of various gas optimization methods though with gas can be reduce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Tharammal",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.21.0"
+  }
+}
